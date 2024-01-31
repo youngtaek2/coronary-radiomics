@@ -1,1 +1,1 @@
-# coronary_radiomics
+# coronary-radiomics
